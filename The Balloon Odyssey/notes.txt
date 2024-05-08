@@ -1,0 +1,6 @@
+resize:
+
+1) balloon1
+2) balloon2
+3) place 60*60 credit in tbo folder
+4) upload credit (resized) to drive

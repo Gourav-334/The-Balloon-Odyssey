@@ -1,0 +1,5 @@
+1) self made modules in same directory can be imported.
+2) other modules outside the directory can't be imported.
+3) self made modules in same directory can be accesed indirectly (indirect import works).
+4) other modules outside the directory can't be accesed indirectly (indirect import doesn't work).
+5) literally self made modules in same directory is run when imported, directly or indirectly.
